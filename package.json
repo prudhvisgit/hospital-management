@@ -1,0 +1,11 @@
+{
+    "name": "caresync-root",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "install:backend": "npm install --prefix backend",
+        "start:backend": "npm start --prefix backend",
+        "install:frontend": "npm install --prefix frontend",
+        "build:frontend": "npm run build --prefix frontend"
+    }
+}
