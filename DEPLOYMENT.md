@@ -1,8 +1,17 @@
 # CareSync Hospital Management - Deployment Guide
 
-This project is prepared for production deployment.
+🚀 **Code has been successfully pushed to GitHub!**
 
-## Architecture
+## ⚡ One-Click Deployment
+
+| Component | Provider | Action |
+| :--- | :--- | :--- |
+| **Frontend** | Vercel | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fprudhvisgit%2Fhospital-management&root-directory=frontend) |
+| **Backend** | Render | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/prudhvisgit/hospital-management) |
+
+---
+
+## 🏗️ Architecture
 - **Frontend**: Next.js (React) - Recommended: [Vercel](https://vercel.com)
 - **Backend**: Node.js (Express) - Recommended: [Render](https://render.com) or [Railway](https://railway.app)
 - **Database**: MongoDB - Recommended: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
